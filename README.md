@@ -1,16 +1,21 @@
-## Hi there 👋
+# Labs_Pstu_petrovkirill
+###  hello  🖖 Этот профиль исключитьльно для учёбы
+### Этот репозиторий содержит мои лабораторные, практические работы выполненные во время обучения в университете
 
-<!--
-**PetrovKIrill163/PetrovKIrill163** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I Кирилл из РИС-26-4б
 
-Here are some ideas to get you started:
+## 💻 Обо мне
+- 🎓 Учусь на Прогаммной инжененирии 
+- 🌍 Живу на Chille
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Стек за что шарю 
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![С++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+
+## IDE
+![Vs](https://img.shields.io/badge/-VS_Code-000000?style=flat&logo=visualstudiocode&logoColor=007ACCe)
+![Zed](https://img.shields.io/badge/-Zed-111111?style=flat&logo=zedindustries&logoColor=8B5CF6)
+
+
+![ ](https://i.pinimg.com/736x/55/ba/f0/55baf061467b641a6bf593f46b677142.jpg)
